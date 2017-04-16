@@ -1,0 +1,5 @@
+<?php
+
+$fachada = EmpresaFacade::getInstancia();
+
+?>
